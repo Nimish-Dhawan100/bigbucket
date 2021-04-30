@@ -1,7 +1,7 @@
 body {
     background-color: #c0fefc;
     text-align: center;
-    padding: 50px;
+    padding: 18px;
 }
 
 .covid {
@@ -68,7 +68,7 @@ body {
   }
   
   .links {
-      border-radius: 100%;
+      border-radius: 50%;
   }
 
   .links:hover {
